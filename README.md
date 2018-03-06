@@ -1,5 +1,10 @@
 ## Overview
 
+
+http://www.patricksoftwareblog.com/structuring-a-flask-project/
+
+
+
 This Flask application contains the basic user management functionality (register, login, logout) to demonstrate the use of py.test.
 
 ## Motivation
